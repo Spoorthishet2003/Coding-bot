@@ -1,4 +1,4 @@
-//Compute the roots of a quadratic equation by accepting the coefficients
+//#Compute the roots of a quadratic equation by accepting the coefficients
 
 #include<stdio.h>
 #include<stdlib.h>
